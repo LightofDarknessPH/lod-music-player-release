@@ -1,0 +1,28 @@
+Copyright (c) 2026 Light of Darkness-PH. All rights reserved.
+
+1. RESTRICTIONS
+The source code, scripts, compiled binaries, release packages (including 
+APK files), and associated assets of this project are strictly proprietary. 
+Unauthorized copying, modification, distribution, public display, or reverse 
+engineering of this software—by any electronic, mechanical, digital, or 
+other means—is strictly prohibited without the prior explicit written 
+permission of the copyright holder.
+
+2. SCOPE AND THIRD-PARTY EXCLUSIONS
+This license applies exclusively to the original, custom-designed structure 
+and authorship of this project. 
+
+- This license does not claim ownership over standard boilerplate structures, 
+  framework scaffolding, or common programming syntax patterns.
+- Any third-party libraries, external dependencies, or foundational code snippets 
+  incorporated into this project to support its functionality remain governed 
+  by their respective original terms, licenses, and copyright holders. 
+
+3. DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
